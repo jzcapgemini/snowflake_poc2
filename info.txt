@@ -1,0 +1,4 @@
+bucket:
+jz_poc2_snowflake_2024-01-04
+
+test
